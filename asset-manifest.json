@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/campusnewsportal/static/css/main.d5289b2f.css",
+    "main.js": "/campusnewsportal/static/js/main.166ec04f.js",
+    "index.html": "/campusnewsportal/index.html",
+    "main.d5289b2f.css.map": "/campusnewsportal/static/css/main.d5289b2f.css.map",
+    "main.166ec04f.js.map": "/campusnewsportal/static/js/main.166ec04f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5289b2f.css",
+    "static/js/main.166ec04f.js"
+  ]
+}
