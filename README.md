@@ -1,0 +1,2 @@
+# campusnewsportal
+Devsoc Core Project
